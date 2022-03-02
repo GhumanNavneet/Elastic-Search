@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "How to Access Elastic Cloud",
+    "Language": "English",
+    "BaseURL": "https://github.com/GhumanNavneet/Elastic-Search/",
+    "Files": [
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/GhumanNavneet/Elastic-Search/main/Gettingstart.md",
+        "Order": 1
+      }
+    ]
+  }
+]

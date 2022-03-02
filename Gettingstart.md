@@ -11,6 +11,8 @@
 
 1. Once you get access to azure portal click on **Resource Group**.
 
+1. Select the **demo** Resoruce Group
+
 1. Select a 'Elastic-XXXX' to open overview page.
 
 1. You now have a few options to access your deployment:

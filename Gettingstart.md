@@ -13,7 +13,7 @@
 
 1. Select the **demo** Resoruce Group
 
-1. Select a 'Elastic-XXXX' to open overview page.
+1. Select a `Elastic-XXXX` to open overview page.
 
 1. You now have a few options to access your deployment:
 
